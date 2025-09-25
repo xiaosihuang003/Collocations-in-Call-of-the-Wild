@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+nltk
+pandas
+numpy
+tqdm
+scipy
+
