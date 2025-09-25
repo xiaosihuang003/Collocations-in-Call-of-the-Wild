@@ -4,20 +4,6 @@ A NLTK pipeline that downloads Jack London’s **The Call of the Wild** (Project
 
 ---
 
-## Folder layout
-
-    data/
-      raw/      # downloaded .txt
-      clean/    # text with Gutenberg header/footer removed
-    outputs/
-      colloc_overall.csv   # top-20 overall collocations (w1,w2,type,mean_dist,pairs,p_value)
-      colloc_dog.csv       # top-20 pairs that include 'dog'
-      preview.md           # human‑readable summary
-    collocations.py        # main script (NLTK-based)
-    requirements.txt
-
----
-
 ## How to run
 
     # (optional) create & activate a virtual env
